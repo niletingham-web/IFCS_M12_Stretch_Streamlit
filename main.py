@@ -16,6 +16,8 @@ st.markdown(
 
 st.title("Welcome to Northeastern University")
 
+st.image("nu_logo.png")
+
 user_input = st.text_input("Your name")
 
 course_input = st.text_input("What course are you studying?")
