@@ -16,7 +16,8 @@ st.markdown(
 
 st.title("Welcome to Northeastern University")
 
-st.image("https://github.com/niletingham-web/IFCS_M12_Stretch_Streamlit/blob/main/NU_Logo.png?raw=true")
+st.image("https://github.com/niletingham-web/IFCS_M12_Stretch_Streamlit/blob/main/NU_Logo.png?raw=true",width=300)
+
 
 user_input = st.text_input("Your name")
 
