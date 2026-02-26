@@ -3,7 +3,10 @@ import streamlit as st
 st.markdown(
     """
     <style>
-        html, body, [class*="css"]  {
+        html, body {
+            background-color: white;
+        }
+        * {
             color: red !important;
         }
     </style>
